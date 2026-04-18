@@ -1,0 +1,8 @@
+name: RemoteEnderChest
+version: ${version}
+main: com.example.chestplugin.ChestPlugin
+api-version: '26.1.2'
+commands:
+  chest:
+    description: Open the chest command
+    usage: /chest
